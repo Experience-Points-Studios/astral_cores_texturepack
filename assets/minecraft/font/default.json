@@ -1,0 +1,95 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/core_empty.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/aero_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/gale_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chrono_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/gravity_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/frost_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/phoenix_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/leviathan_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/shadow_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/berserker_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/illusion_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nature_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE00B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/magnet_core.png",
+      "ascent": 20,
+      "height": 24,
+      "chars": ["\uE00C"]
+    }
+  ]
+}
